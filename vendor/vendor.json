@@ -1,0 +1,83 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "gZQ6HheWahvZzIc3phBnOwoWHjE=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/github.com/btcsuite/btcd/btcec",
+			"path": "github.com/btcsuite/btcd/btcec",
+			"revision": "472c23a8015cd84b193d2d0efb4592a664de3c62",
+			"revisionTime": "2018-12-17T11:19:01Z"
+		},
+		{
+			"checksumSHA1": "dvabztWVQX8f6oMLRyv4dLH+TGY=",
+			"origin": "github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "04af85275a5c7ac09d16bb3b9b2e751ed45154e5",
+			"revisionTime": "2018-10-09T18:43:15Z"
+		},
+		{
+			"checksumSHA1": "o5jFDwt1CR1KZ5Ep8naAeu7BkS0=",
+			"path": "github.com/ethereum/go-ethereum/common",
+			"revision": "472c23a8015cd84b193d2d0efb4592a664de3c62",
+			"revisionTime": "2018-12-17T11:19:01Z"
+		},
+		{
+			"checksumSHA1": "gvBs++4H+laBSZFm4ZS2Nw0w9ow=",
+			"path": "github.com/ethereum/go-ethereum/common/hexutil",
+			"revision": "472c23a8015cd84b193d2d0efb4592a664de3c62",
+			"revisionTime": "2018-12-17T11:19:01Z"
+		},
+		{
+			"checksumSHA1": "M7ksSRW0CZUDXCIc81eGogsbzS8=",
+			"path": "github.com/ethereum/go-ethereum/common/math",
+			"revision": "472c23a8015cd84b193d2d0efb4592a664de3c62",
+			"revisionTime": "2018-12-17T11:19:01Z"
+		},
+		{
+			"checksumSHA1": "WP6+X/op8E+04T1hhZparITkY8I=",
+			"path": "github.com/ethereum/go-ethereum/crypto",
+			"revision": "472c23a8015cd84b193d2d0efb4592a664de3c62",
+			"revisionTime": "2018-12-17T11:19:01Z"
+		},
+		{
+			"checksumSHA1": "3BBseCddKirTs7mqSxpi7QHmAQg=",
+			"path": "github.com/ethereum/go-ethereum/crypto/secp256k1",
+			"revision": "472c23a8015cd84b193d2d0efb4592a664de3c62",
+			"revisionTime": "2018-12-17T11:19:01Z"
+		},
+		{
+			"checksumSHA1": "8eZvG99UTA4QKxhsn+So9BGASro=",
+			"path": "github.com/ethereum/go-ethereum/crypto/sha3",
+			"revision": "472c23a8015cd84b193d2d0efb4592a664de3c62",
+			"revisionTime": "2018-12-17T11:19:01Z"
+		},
+		{
+			"checksumSHA1": "0wMF6YeAdP6AW1FAuntuTKA8R2w=",
+			"path": "github.com/ethereum/go-ethereum/rlp",
+			"revision": "472c23a8015cd84b193d2d0efb4592a664de3c62",
+			"revisionTime": "2018-12-17T11:19:01Z"
+		},
+		{
+			"checksumSHA1": "LuFv4/jlrmFNnDb/5SCSEPAM9vU=",
+			"origin": "github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "04af85275a5c7ac09d16bb3b9b2e751ed45154e5",
+			"revisionTime": "2018-10-09T18:43:15Z"
+		},
+		{
+			"checksumSHA1": "URw4XbfrdLpl0OmG5jKT/i1mpAs=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "04af85275a5c7ac09d16bb3b9b2e751ed45154e5",
+			"revisionTime": "2018-10-09T18:43:15Z"
+		},
+		{
+			"checksumSHA1": "CEFTYXtWmgSh+3Ik1NmDaJcz4E0=",
+			"origin": "github.com/ethereum/go-ethereum/vendor/gopkg.in/check.v1",
+			"path": "gopkg.in/check.v1",
+			"revision": "472c23a8015cd84b193d2d0efb4592a664de3c62",
+			"revisionTime": "2018-12-17T11:19:01Z"
+		}
+	],
+	"rootPath": "yibei-tech/Api-Demo"
+}
